@@ -8,7 +8,7 @@ class Solution:
             x = 1 / x
             n = -n
 
-        result = 1.0
+        result = 1.0 
         current = x
 
         while n > 0:
